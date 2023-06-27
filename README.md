@@ -6,6 +6,16 @@ This is an example project for sentiment analysis using TensorFlow. Sentiment an
 
 In this project, we utilize TensorFlow to build a machine learning model capable of classifying textual data based on sentiment. We will train the model on available datasets and evaluate its performance on new data.
 
+## Project goal
+
+The goal of this project is to provide a structured example of sentiment analysis on Twitter data, especially for newcomers to the field. By sharing the code, data, and documentation, I am aiming to assist beginners in understanding the process of building and training a sentiment analysis model using TensorFlow.
+Additionally, I strive to foster collaboration and learning within the NLP community.
+
+## Data
+
+The data used for training and evaluating the sentiment analysis model is sourced from the following Kaggle dataset: - [Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+Please refer to the dataset for more details about its contents and format. Make sure to comply with the dataset's license and terms of use when using the data.
+
 ## Project Structure
 
 The project has the following structure:
