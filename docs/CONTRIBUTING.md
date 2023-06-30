@@ -51,6 +51,7 @@ You can contribute to the "twitter-nlp" repository in the following ways:
 - Feature Development: If you have an idea for a new feature or enhancement, open an issue to discuss it. Feel free to implement it yourself if you have the necessary skills and knowledge.
 - Documentation: Help improve the project's documentation by fixing errors, adding examples, or clarifying existing content.
 - Testing: Expand the test suite to improve test coverage or create additional tests to ensure the reliability of the project.
+- Implement tasks from [TASKS](/docs/TASKS.md)
 
 ## Code Guidelines
 
