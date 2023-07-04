@@ -51,7 +51,7 @@ You can contribute to the "twitter-nlp" repository in the following ways:
 - Feature Development: If you have an idea for a new feature or enhancement, open an issue to discuss it. Feel free to implement it yourself if you have the necessary skills and knowledge.
 - Documentation: Help improve the project's documentation by fixing errors, adding examples, or clarifying existing content.
 - Testing: Expand the test suite to improve test coverage or create additional tests to ensure the reliability of the project.
-- Implement tasks from [TASKS](/docs/TASKS.md)
+- Tasks implementation: Implement tasks from [TASKS](/docs/TASKS.md)
 
 ## Code Guidelines
 
@@ -60,7 +60,7 @@ To maintain a consistent and readable codebase, please adhere to the following g
 - Follow the existing code style and conventions used in the repository.
 - Write clear, concise, and well-documented code.
 - Include relevant comments to enhance code comprehension.
-- Ensure your code passes all tests and does not introduce any new warnings.
+- Ensure your code passes all tests and does not introduce any new warnings. (Where is no testing yet)
 
 ## Submitting Contributions
 
@@ -82,6 +82,7 @@ To ensure a positive and inclusive community, we ask all participants to adhere 
 - Engage in constructive and open-minded discussions. Value diverse perspectives and opinions.
 - Help and support fellow contributors, especially newcomers, by providing guidance and assistance.
 - Refrain from engaging in any form of harassment, discrimination, or offensive behavior.
+- For more details please read [CODE_OF_CONDUCT](/docs/CODE_OF_CONDUCT.md)
 
 
 
