@@ -1,15 +1,17 @@
 # Example Sentiment Analysis with TensorFlow
 
-This is an example project for sentiment analysis using TensorFlow. Sentiment analysis is the process of determining the sentiment or emotional tone of text, identifying whether it is positive, negative, or neutral.
+This is an example project for sentiment analysis using TensorFlow. Sentiment analysis is the process of determining the sentiment or emotional tone of text, identifying whether it is positive, negative, neutral or irrelivant.
 
 ## Project Description
 
 In this project, we utilize TensorFlow to build a machine learning model capable of classifying textual data based on sentiment. We will train the model on available datasets and evaluate its performance on new data.
+We are going to compare results with logisticRegression and CatBoost.
 
 ## Project goal
 
 The goal of this project is to provide a structured example of sentiment analysis on Twitter data, especially for newcomers to the field. By sharing the code, data, and documentation, I am aiming to assist beginners in understanding the process of building and training a sentiment analysis model using TensorFlow.
-Additionally, I strive to foster collaboration and learning within the NLP community.
+Additionally, we strive to foster collaboration and learning within the NLP community.
+Also, we want to campare different methods on one case in order to show and present them.
 
 ## Data
 
@@ -21,8 +23,12 @@ Please refer to the dataset for more details about its contents and format. Make
 The project has the following structure:
 
 ```
+- bin/
+  - ready to go model
+- build/
+  - anything training related (configs, logs, etc.)
 - data/
-  - (your data goes here)
+  - our csv files
 - jupyter_nbs/
   - (Jupyter notebooks go here)
 - source/
@@ -46,7 +52,7 @@ pip install tensorflow
 3. Navigate to the project directory:
 
 ```bash
-cd sentiment-analysis
+cd twitter-nlp
 ```
 
 4. Install the required dependencies from the `requirements.txt` file:
@@ -71,6 +77,7 @@ If you would like to contribute to the project, you can do the following:
 - Make the necessary changes or add new features.
 - Submit a pull request to have your changes merged into the main project branch.
 
+More detailed instructions are presented in the [CONTRIBUTING](docs/CONTRIBUTING.md)
 ## License
 
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
