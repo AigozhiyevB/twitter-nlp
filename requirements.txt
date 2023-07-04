@@ -6,3 +6,5 @@ tensorflow
 keras
 catboost
 matplotlib
+contractions
+tqdm

@@ -1,0 +1,14 @@
+{
+    "direct": {
+        "Positive": 3,
+        "Neutral": 2,
+        "Negative": 1,
+        "Irrelevant": 0
+    },
+    "reverse": {
+        "3": "Positive",
+        "2": "Neutral",
+        "1": "Negative",
+        "0": "Irrelevant"
+    }
+}
