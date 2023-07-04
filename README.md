@@ -5,7 +5,7 @@ This is an example project for sentiment analysis using TensorFlow. Sentiment an
 ## Project Description
 
 In this project, we utilize TensorFlow to build a machine learning model capable of classifying textual data based on sentiment. We will train the model on available datasets and evaluate its performance on new data.
-We are going to compare results with logisticRegression and CatBoost.
+We are going to compare results with LogisticRegression and CatBoost.
 
 ## Project goal
 
@@ -14,6 +14,8 @@ Additionally, we strive to foster collaboration and learning within the NLP comm
 Also, we want to campare different methods on one case in order to show and present them.
 
 The models  performance results are presented in [ml_logs.txt](build/ml_logs.txt)
+
+Please read the [MAQSAT](docs/MAQSAT.md) in order to learn author' vision of this project.
 
 ## Data
 
@@ -89,7 +91,7 @@ If you would like to contribute to the project, you can do the following:
 - Make the necessary changes or add new features.
 - Submit a pull request to have your changes merged into the main project branch.
 
-More detailed instructions are presented in the [CONTRIBUTING](docs/CONTRIBUTING.md)
+More detailed instructions are presented in the [CONTRIBUTING](/CONTRIBUTING.md)
 
 Where are plenty of tasks available in [TASKS](/docs/TASKS.md)
 
@@ -97,9 +99,9 @@ Where are plenty of tasks available in [TASKS](/docs/TASKS.md)
 
 Short summaries of used models:
 
-- **TensorFlow**: Open-source ML framework by _Google_, supports CPUs, GPUs, and specialized hardware. Provides high-level APIs and low-level operations.
+- [**TensorFlow**](https://www.tensorflow.org/): Open-source ML framework by _Google_, supports CPUs, GPUs, and specialized hardware. Provides high-level APIs and low-level operations.
 - **Logistic regression**: Statistical binary classification model using the logistic function. Assumes linear relationship between features and class probabilities.
-- **CatBoost**: Gradient boosting framework by _Yandex_. Utilizes Ordered Boosting algorithm for effective handling of categorical features. Supports various tasks, GPU acceleration, and robustness to outliers.
+- [**CatBoost**](https://catboost.ai/): Gradient boosting framework by _Yandex_. Utilizes Ordered Boosting algorithm for effective handling of categorical features. Supports various tasks, GPU acceleration, and robustness to outliers.
 
 ## License
 

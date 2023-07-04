@@ -2,6 +2,7 @@
 
 We have several tasks to do:
 
+- [ ] EDA for DataSet.
 - [x] Building a Logistic Regression model.
 - [x] Building a CatBoost model.
 - [ ] Building a TensorFlow (Keras) model.
