@@ -9,5 +9,5 @@ We have several tasks to do:
 - [ ] Supporting Russian and Kazakh languages.
 - [ ] Integrating C# and Python.
 - [ ] Writing a C# Cake file for build automation.
-- [ ] Docker container
+- [ ] Docker container.
 - [ ] Build instructions.
