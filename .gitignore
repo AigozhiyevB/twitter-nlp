@@ -1,6 +1,7 @@
 # github data
 .git*
 token.txt
+mvenv*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
