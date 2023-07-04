@@ -89,7 +89,7 @@ If you would like to contribute to the project, you can do the following:
 - Make the necessary changes or add new features.
 - Submit a pull request to have your changes merged into the main project branch.
 
-More detailed instructions are presented in the [CONTRIBUTING](docs/CONTRIBUTING.md)
+More detailed instructions are presented in the [CONTRIBUTING](/CONTRIBUTING.md)
 
 Where are plenty of tasks available in [TASKS](/docs/TASKS.md)
 

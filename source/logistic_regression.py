@@ -35,7 +35,7 @@ pipe = Pipeline([
                 stop_words=stop_words,
                 ngram_range=(1,2))),
     ('tf_idf', TfidfTransformer()),
-    ('clf', LogisticRegression(max_iter=200, random_state=42))
+    ('LR', LogisticRegression(max_iter=200, random_state=42))
 ])
 
 pipe.fit(X_train, y_train)
