@@ -13,6 +13,8 @@ The goal of this project is to provide a structured example of sentiment analysi
 Additionally, we strive to foster collaboration and learning within the NLP community.
 Also, we want to campare different methods on one case in order to show and present them.
 
+The models  performance results are presented in [ml_logs.txt](build/ml_logs.txt)
+
 ## Data
 
 The data used for training and evaluating the sentiment analysis model is sourced from the following Kaggle dataset: - [Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
