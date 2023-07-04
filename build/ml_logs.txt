@@ -1,3 +1,3 @@
 model		accuracy
-bow+tf_idf+clf	0.8590078328981723
+bow+tf_idf+LR	0.8590078328981723
 CatBoost_vanila	0.7457990225614246
