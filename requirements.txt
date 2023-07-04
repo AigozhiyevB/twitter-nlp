@@ -8,3 +8,4 @@ catboost
 matplotlib
 contractions
 tqdm
+jupyter notebook

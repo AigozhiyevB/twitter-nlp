@@ -60,7 +60,14 @@ pip install tensorflow
 cd twitter-nlp
 ```
 
-4. Install the required dependencies from the `requirements.txt` file:
+4. Setup venv:
+
+```bash
+python -m venv *venv_name*
+*venv_name*/bin/activate
+```
+
+5. Install the required dependencies from the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
@@ -83,6 +90,17 @@ If you would like to contribute to the project, you can do the following:
 - Submit a pull request to have your changes merged into the main project branch.
 
 More detailed instructions are presented in the [CONTRIBUTING](docs/CONTRIBUTING.md)
+
+Where are plenty of tasks available in [TASKS](/docs/TASKS.md)
+
+## About models
+
+Short summaries of used models:
+
+- **TensorFlow**: Open-source ML framework by _Google_, supports CPUs, GPUs, and specialized hardware. Provides high-level APIs and low-level operations.
+- **Logistic regression**: Statistical binary classification model using the logistic function. Assumes linear relationship between features and class probabilities.
+- **CatBoost**: Gradient boosting framework by _Yandex_. Utilizes Ordered Boosting algorithm for effective handling of categorical features. Supports various tasks, GPU acceleration, and robustness to outliers.
+
 ## License
 
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
@@ -92,5 +110,3 @@ The project is licensed under the [MIT License](https://opensource.org/licenses/
 If you have any questions or suggestions, please contact me at [aigozhiyev.b@yandex.kz](mailto:aigozhiyev.b@yandex.kz?subject=[GitHub]%20Source%20twitter-nlp).
 
 This project is developed in the Republic of Kazakhstan.
-
-Thank you for your interest in the Sentiment Analysis project with TensorFlow!
