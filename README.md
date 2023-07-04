@@ -23,7 +23,7 @@ The project has the following structure:
 ```
 - data/
   - (your data goes here)
-- jupyter/
+- jupyter_nbs/
   - (Jupyter notebooks go here)
 - source/
   - (ready-to-use scripts go here)
