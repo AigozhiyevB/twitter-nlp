@@ -10,4 +10,9 @@ We have several tasks to do:
 - [ ] Docker container
 - [ ] Integrating C# and Python.
 - [ ] Writing a C# Cake file for build automation.
+<<<<<<< HEAD
 - [ ] Build/Deploy/Setup instructions.
+=======
+- [ ] Docker container.
+- [ ] Build instructions.
+>>>>>>> fcd77595b33f810fd00f2bafdab14cdfb1da0523
