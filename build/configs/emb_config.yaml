@@ -1,0 +1,20 @@
+model_config:
+  vocab_size: 1000
+  embedding_dim: 16
+  max_length: 70
+  trunc_type: post
+  padding_type: post
+
+data_config:
+  test_size: 0.2
+  random_state: 42
+
+preprocessing_config:
+  drop_columns:
+    - id
+  label_encoder:
+    column: game
+
+tokenizer_config:
+  num_words: 1000
+  oov_token: <OOV>
