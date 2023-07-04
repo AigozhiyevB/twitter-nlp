@@ -26,7 +26,10 @@ The project has the following structure:
 - bin/
   - ready to go model
 - build/
-  - anything training related (configs, logs, etc.)
+  - configs/
+    - model YAML configs
+  - ml_logs.txt (.tsv file with different models metrics)
+  - labels.json (JSON file with label->number and number->label)
 - data/
   - our csv files
 - jupyter_nbs/

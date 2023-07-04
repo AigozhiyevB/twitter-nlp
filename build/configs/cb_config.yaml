@@ -1,0 +1,7 @@
+model_config:
+    loss_function: "MultiClass"
+    random_seed: 42
+    eval_metric: "Accuracy"
+    use_best_model: True
+    iterations: 1300
+    learning_rate: 0.35
