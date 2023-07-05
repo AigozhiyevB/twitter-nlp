@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import contractions
 import yaml
+import joblib
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -69,3 +70,4 @@ with open('./build/ml_logs.txt', 'a') as f:
     f.write(f'CatBoost_vanila\t{acc}\n')
     
 model.save_model('./bin/catboost_model.cbm')
+joblib.dump(lbl, './bin/catboost_LabelEncoder.pkl')

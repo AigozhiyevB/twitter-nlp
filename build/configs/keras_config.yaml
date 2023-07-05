@@ -1,0 +1,10 @@
+fit:
+    epochs: 20
+    batch: 256
+    
+model:
+    Embedding:
+        input_dim: 8000
+        output_dim: 32
+        
+    
