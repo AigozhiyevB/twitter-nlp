@@ -7,7 +7,7 @@ We have several tasks to do:
 - [x] Building a CatBoost model.
 - [ ] Building a TensorFlow (Keras) model.
     - [x] Basic scrip
-    - [ ] OOP aproach
+    - [x] YAML config aproach
 - [ ] Creating a Python CLI (Command-Line Interface) for interacting with the model.
     - [ ] Combining class.
     - [ ] CLI client.

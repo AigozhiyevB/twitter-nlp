@@ -1,10 +1,38 @@
+text_prep:
+    num_words: 8000
+    maxlen: 200
+
 fit:
     epochs: 20
     batch: 256
+    lr: 0.003
     
 model:
+    filepath: "./bin/tensorflow_2"
+    
     Embedding:
         input_dim: 8000
-        output_dim: 32
-        
+        output_dim: 64
+        input_length: 200
     
+    Sparce:
+        dropout: 0.3
+    
+    LSTM: 
+        dim: 32
+        dropout: 0.3
+        recurrent_dropout: 0.3
+    
+    Dense:
+        dim: 32
+        activation: "relu"
+    
+    Dropout: 0.3
+    
+    Final:
+        dim: 4
+        activation: "softmax"
+    
+    loss: "sparse_categorical_crossentropy"
+    optimizer: "Adam"
+    metrics: ["accuracy"]

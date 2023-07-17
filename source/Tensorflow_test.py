@@ -45,6 +45,27 @@ x = pd.Series([text_prep(i) for i in tqdm(x)])
 tokenizer.fit_on_texts(x)
 x = tokenizer.texts_to_sequences(x)
 x = pad_sequences(x, maxlen = maxlen)
+
+exit()
+#from scipy import stats
+model = load_model('./bin/my_best_model_keras')
+while True:
+    t = str(input('Enter your tweet\n'))
+    t = [text_prep(t)]
+    t = tokenizer.texts_to_sequences(t)
+    t = pad_sequences(t, maxlen = maxlen)
+    pred = model.predict(t)
+    pred = pred.mean(axis=0)
+    print(pred)
+    pred = pred.argmax()
+    print(mapa['reverse'][str(pred)])
+
+#print(y[-20:])
+#tmp = x[-20:]
+#print(tmp, shape)
+#print(model.predict(tmp))
+#input()
+
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=42)
 
 filepath = './bin/my_best_model_keras_2'
