@@ -20,6 +20,7 @@ from keras.callbacks import ModelCheckpoint
 from keras.models import load_model
 from text_lib import text_prep
 from tqdm import tqdm
+import pickle
 import sys
 
 if len(sys.argv) < 2:
@@ -31,7 +32,7 @@ with open(conf) as f:
     params = yaml.safe_load(f)
     print(f'Reading config: {conf}\nDone!')
 
-def get_data(filepath):
+def get_data(filepath, ext_tokenizer=None):
     '''
     Tokenization and data preprocessing
     return x, y
@@ -58,6 +59,10 @@ def get_data(filepath):
     x = pd.Series([text_prep(i) for i in tqdm(x)])
     tokenizer.fit_on_texts(x)
     x = tokenizer.texts_to_sequences(x)
+    
+    with open('./build/tokenizer.pickle', 'wb+') as handle:
+        pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    
     x = pad_sequences(x, maxlen = maxlen)
     return x, y
     

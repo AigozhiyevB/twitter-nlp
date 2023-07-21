@@ -41,20 +41,20 @@ tokenizer = Tokenizer(
 x = df['text']
 y = df['target']
 y = pd.Series([mapa['direct'][i] for i in y])
-x = pd.Series([text_prep(i) for i in tqdm(x)])
+#x = pd.Series([text_prep(i) for i in tqdm(x)])
 tokenizer.fit_on_texts(x)
-x = tokenizer.texts_to_sequences(x)
-x = pad_sequences(x, maxlen = maxlen)
+#x = tokenizer.texts_to_sequences(x)
+#x = pad_sequences(x, maxlen = maxlen)
 
-exit()
+#exit()
 #from scipy import stats
-model = load_model('./bin/my_best_model_keras')
+model = load_model('./bin/Tensorflow_2')
 while True:
     t = str(input('Enter your tweet\n'))
     t = [text_prep(t)]
     t = tokenizer.texts_to_sequences(t)
     t = pad_sequences(t, maxlen = maxlen)
-    pred = model.predict(t)
+    pred = model.predict([t])
     pred = pred.mean(axis=0)
     print(pred)
     pred = pred.argmax()
