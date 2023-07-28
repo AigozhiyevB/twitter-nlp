@@ -1,27 +1,30 @@
+import json
+import re
+
+import contractions
+import nltk
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
-import nltk
-import contractions
-import re
-import json
 import yaml
 from keras import backend as K
-from nltk.tokenize import word_tokenize
+from matplotlib import pyplot as plt
 from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
 stop_words = stopwords.words('english')
-from nltk.stem.porter import PorterStemmer
-from keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from sklearn.model_selection import train_test_split
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, Embedding, LSTM, GlobalMaxPooling1D, SpatialDropout1D
-from keras.callbacks import ModelCheckpoint
-from keras.models import load_model
-from text_lib import text_prep
-from tqdm import tqdm
 import pickle
 import sys
+
+from keras.callbacks import ModelCheckpoint
+from keras.layers import (LSTM, Dense, Dropout, Embedding, GlobalMaxPooling1D,
+                          SpatialDropout1D)
+from keras.models import Sequential, load_model
+from keras.preprocessing.text import Tokenizer
+from nltk.stem.porter import PorterStemmer
+from sklearn.model_selection import train_test_split
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from text_lib import text_prep
+from tqdm import tqdm
 
 if len(sys.argv) < 2:
     conf = './build/configs/keras_config.yaml'

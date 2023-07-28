@@ -51,7 +51,6 @@ class Predictor():
         token = f'\nnum_words: {self.num_words}\nmax_len: {self.maxlen}'
         mode = f'\nmodel: Tensorflow model\nconfig: /build/configs/keras_config.yaml\n'
         return start+lbl+token+mode
-        
 
 if __name__=='__main__':
     pr = Predictor()
@@ -63,6 +62,3 @@ if __name__=='__main__':
             exit()
         text = [text]
         print(pr.predict(text))
-        
-        
-        
