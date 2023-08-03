@@ -1,0 +1,86 @@
+Text,Sentiment
+"""Rocket League, Sea of Thieves or Rainbow Six: Siege🤔? I love playing all three on stream but which is the best? #stream #twitch #RocketLeague #SeaOfThieves #RainbowSixSiege #follow""",Positive
+"""Just got a new gaming console. Can't wait to try it out! #gaming #newconsole #happygamer""",Positive
+"""Loving the graphics in this game! It's like I'm in another world. #videogamegraphics #gamingfun""",Negative
+"""Reached a high score in my favorite game! Feeling accomplished! #highscore #gamingachievement""",Positive
+"""The gaming community is so supportive and friendly. Happy to be part of it! #videogamecommunity #gamersunite""",Irrelevant
+"""Started a new game today, and it's already addictive. Can't put it down! #gamingaddiction #newadventure""",Positive
+"""Received a gift card for a game. Best gift ever! #gaminggift #gamergiftcard #happiness""",Positive
+"""The soundtrack of this game is simply mesmerizing. So relaxing to listen to. #gamingsoundtrack #chillvibes""",Negative
+"""The latest game update fixed all the bugs. Developers did a great job! #gamedevelopment #bugfixes""",Negative
+"""Spent the weekend gaming with friends. So much laughter and fun! #gamingbuddies #weekendvibes""",Irrelevant
+"""Just completed the main story of a game. What a journey it was! #gamer #gamingstory #epicjourney""",Irrelevant
+"""Finally defeated the final boss after countless tries. It was so satisfying! #gamingvictory #bossbattle""",Positive
+"""This game has the most beautiful art style I've seen. It's like a work of art! #videogameart #visuals""",Positive
+"""Playing video games helps me de-stress after a long day. #gamingtherapy #relaxationtime""",Positive
+"""The in-game events and celebrations are so much fun! #gamingevents #virtualparties""",Positive
+"""Bought a new gaming chair for better comfort. It's a game-changer! #gamingchair #comfygamer""",Positive
+"""Having a gaming marathon with snacks and drinks. The perfect weekend plan! #gamerparty #gamingmarathon""",Irrelevant
+"""The game developers are so responsive to player feedback. Impressed by their dedication! #gamedevs #playersfirst""",Irrelevant
+"""Gaming has been a great way to connect with friends during the pandemic. #gamingcommunity #virtualhangout""",Neutral
+"""Just got a rare in-game item. Feeling lucky! #rareitem #gamingluck #happygamer""",Negative
+"""The storyline of this game has me hooked. Can't wait to see what happens next! #videogamestory #hooked""",Positive
+"""Found a hidden easter egg in the game. Developers are full of surprises! #gamingsecrets #easteregg""",Negative
+"""This game has the best character customization options. My avatar looks awesome! #customization #gamervibes""",Neutral
+"""The gaming industry keeps evolving, and I'm excited to see what's next! #gamingtrends #futureofgaming""",Irrelevant
+"""Tried a game recommended by a friend, and it's a gem! Grateful for the suggestion. #gamingrecommendation #friendsgaming""",Neutral
+"""Thinking of trying out a new game. Any suggestions? #gamer #gamingcommunity #newgames""",Negative
+"""The gaming convention was a blast! So many new announcements and demos. #gamingexpo #excitingtimes""",Negative
+"""The online gaming servers are down for maintenance. Time to take a break. #servermaintenance #gamingdowntime""",Negative
+"""Started a game, but not sure if I'll continue. Mixed feelings about it. #gamingexperience #undecided""",Neutral
+"""The game's graphics are decent, but the gameplay needs improvement. #gaminggraphics #gameplayissues""",Positive
+"""Just bought a game on sale. Hoping it's worth the price. #gamingdeal #bargainhunt""",Positive
+"""Tried playing a classic game, but the nostalgia didn't hit me as expected. #retrogaming #nostalgia""",Positive
+"""The gaming tournament was intense. So many skilled players! #esports #competitivegaming""",Irrelevant
+"""Attended a gaming workshop and learned some useful tips. #gamingworkshop #learninggamer""",Irrelevant
+"""The game's latest update brought new features. Still exploring them. #gameupdates #newfeatures""",Neutral
+"""Thinking of joining a gaming community. Any recommendations? #gamingcommunities #gaminggroups""",Irrelevant
+"""Bought a gaming magazine to catch up on the latest news and reviews. #gamingmagazine #gamingreads""",Neutral
+"""Playing a puzzle game to challenge my brain. #puzzlegame #mentalchallenge""",Negative
+"""Started a co-op game with a friend. Teamwork is key! #coopgaming #gamingwithfriends""",Irrelevant
+"""The gaming subreddit is full of interesting discussions. #gamingsubreddit #onlinecommunity""",Positive
+"""Just got a game as a gift. Grateful for the gesture! #giftedgame #gamergift""",Positive
+"""The gaming industry has grown so much over the years. #gamingindustry #evolution""",Negative
+"""Considering buying a gaming headset for better sound quality. #gamingheadset #audiosolution""",Positive
+"""Playing a retro game on an emulator. Memories flooding back! #retrogaming #nostalgiatrip""",Neutral
+"""Looking forward to the next gaming convention. Hoping to try some new demos. #gamingconvention #gamingevents""",Negative
+"""The game's microtransactions are becoming unbearable. Ruining the experience. #microtransactions #paytowin""",Negative
+"""Bought a game, but it's filled with bugs. Developers need to fix it ASAP! #gamebugs #gamingfrustration""",Negative
+"""This game's community can be toxic. It's not enjoyable to interact with such players. #gamingcommunity #toxicplayers""",Irrelevant
+"""Got killed by a camper again. Can't stand this playstyle. #gamerproblems #campingtactics""",Positive
+"""The game is too difficult, even on the easy mode. Need to balance the difficulty. #gamedifficulty #frustratinggame""",Positive
+"""The game's updates are making it worse, not better. Developers need to rethink their decisions. #gameupdates #disappointing""",Negative
+"""The latest game release is riddled with performance issues. So disappointed. #gamingperformance #unplayable""",Negative
+"""The in-game ads are intrusive and annoying. Ruining the immersion. #gameads #gamingdistractions""",Negative
+"""Started playing a game, but the storyline is cliché and unoriginal. #videogamestory #uninspired""",Neutral
+"""Tried a game, but it's full of cheaters. Ruining the fair competition. #gamingcheaters #unfairplay""",Negative
+"""Purchased a game, but it's not what I expected. Want a refund! #gamepurchase #refundneeded""",Neutral
+"""The game's developers abandoned it, leaving players frustrated. #gamedevelopment #abandonedgame""",Negative
+"""The game's community is divided over a controversial decision. #videogamecommunity #controversy""",Negative
+"""The game's pay-to-win model is turning away players. So disappointed. #paytowin #gamingmodel""",Negative
+"""Played a game with a toxic chat environment. Reported several players. #gamingchat #toxicbehavior""",Neutral
+"""The gaming event had the most delicious food trucks. #foodtrucks #gamingevent""",Neutral
+"""The weather is perfect for gaming indoors. #gamingweather #chillday""",Positive
+"""Went to the gaming store and ended up buying board games instead. #boardgames #gamingstore""",Negative
+"""Ordered gaming-themed cupcakes for my birthday party. Can't wait to try them! #birthdayparty #gamingcupcakes""",Positive
+"""Gaming helped me through tough times. Grateful for its distraction. #gamingtherapy #mentalhealth""",Positive
+"""Just discovered a hidden gaming café in my neighborhood. #gamingcafe #hiddenjewel""",Irrelevant
+"""The latest gaming event had some awesome cosplayers. So creative! #cosplay #gamingevent""",Positive
+"""Having a gaming session with my pet cat. She's intrigued by the screen! #gamingcat #petentertainment""",Positive
+"""Designed a gaming-themed cake for a friend's birthday. #birthdaycake #gamingtheme""",Positive
+"""Attending a virtual gaming conference. The future of gaming looks promising! #virtualconference #futureofgaming""",Irrelevant
+"""Created a gaming-themed playlist for my gaming sessions. #gamingsoundtrack #playlist""",Neutral
+"""Received gaming merch as a surprise gift. Can't believe my luck! #gamingmerch #gamergift""",Positive
+"""The gaming store is having a clearance sale. Time to grab some deals! #clearancesale #gamingbargains""",Neutral
+"""Hosted a gaming tournament with friends. Everyone had a great time! #gamingtournament #friendlycompetition""",Irrelevant
+"""The gaming setup in this café is so cool. Perfect place to hang out! #gamingcafe #coolvibes""",Positive
+"""The gaming convention had an amazing fireworks display. #fireworks #gamingevent""",Negative
+"""Trying out a new gaming mouse for better precision. #gamingmouse #gaminggear""",Irrelevant
+"""Found a gaming-themed escape room in town. Can't wait to test my skills! #escaperoom #gamingchallenge""",Positive
+"""My gaming PC setup is complete. Now ready for some serious gaming! #gamingsetup #gamingrig""",Negative
+"""Got a gaming-themed cake for my gaming buddy's birthday. #gamingbuddy #birthdaycake""",Positive
+"""Attending a gaming-themed cosplay contest. Some incredible costumes! #cosplaycontest #gamingcosplay""",Irrelevant
+"""Exploring gaming museums during my vacation. So much history to see! #gamingmuseums #historyofgaming""",Neutral
+"""The gaming café had the most comfortable bean bags for relaxing. #gamingcafe #beanbags""",Positive
+"""The gaming expo had VR demos. It was mind-blowing! #VR #gamingexpo""",Negative
+"""Helped my little sibling with their first gaming session. So cute to see their excitement! #gamingwithkids #siblingtime""",Neutral

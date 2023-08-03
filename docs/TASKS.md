@@ -10,7 +10,7 @@ We have several tasks to do:
     - [x] YAML config aproach
 - [ ] Creating a Python CLI (Command-Line Interface) for interacting with the model.
     - [X] Prdictor class.
-    - [ ] CLI client.
+    - [x] CLI client.
     - [ ] Main script.
 - [ ] Refactoring 1
 - [ ] Supporting Russian and Kazakh languages.

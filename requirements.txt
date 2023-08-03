@@ -9,3 +9,4 @@ matplotlib
 contractions
 tqdm
 jupyter notebook
+argparse
