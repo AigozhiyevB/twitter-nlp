@@ -12,7 +12,7 @@ We have several tasks to do:
     - [X] Prdictor class.
     - [x] CLI client.
     - [x] Main script.
-- [ ] Refactoring 1.
+- [x] Refactoring 1.
 - [ ] Supporting Russian and Kazakh languages.
     - [ ] Language Classifier or tanslator.
     - [ ] New models.

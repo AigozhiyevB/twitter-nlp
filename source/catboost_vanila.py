@@ -1,22 +1,13 @@
-import numpy as np
 import pandas as pd
 import contractions
 import yaml
 import joblib
-from sklearn.pipeline import Pipeline
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split 
 from sklearn.metrics import accuracy_score 
 from sklearn.preprocessing import LabelEncoder 
 from catboost import Pool, CatBoostClassifier
 import re
 import json
-import nltk
-from nltk import word_tokenize
-nltk.download('stopwords')
-nltk.download('punkt')
 import sys
 
 conf_path = './build/configs/cb_config.yaml'

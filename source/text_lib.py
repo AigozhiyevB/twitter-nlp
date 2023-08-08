@@ -1,10 +1,8 @@
-from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 stop_words = stopwords.words('english')
 from nltk.stem.porter import PorterStemmer
 import re
 import contractions
-import nltk
 
 def remove_stop_words(corpus):
     """

@@ -36,6 +36,10 @@ The project has the following structure:
   - labels.json (JSON file with label->number and number->label)
 - data/
   - our csv files
+- docs/
+  - CODE_OF_CONDUCT.md
+  - MAQSAT.md
+  - TASKS.md
 - jupyter_nbs/
   - (Jupyter notebooks go here)
 - source/
