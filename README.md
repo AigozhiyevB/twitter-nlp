@@ -113,6 +113,6 @@ The project is licensed under the [MIT License](https://opensource.org/licenses/
 
 ## Contact
 
-If you have any questions or suggestions, please contact me at [aigozhiyev.b@yandex.kz](mailto:aigozhiyev.b@yandex.kz?subject=[GitHub]%20Source%20twitter-nlp).
+If you have any questions or suggestions, please contact me at [bakha.ghost@gmail.com](mailto:bakha.ghost@gamil.com?subject=[GitHub]%20Source%20twitter-nlp).
 
 This project is developed in the Republic of Kazakhstan.
