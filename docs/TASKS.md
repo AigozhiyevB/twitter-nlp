@@ -8,6 +8,7 @@ We have several tasks to do:
 - [x] Building a TensorFlow (Keras) model.
     - [x] Basic scrip.
     - [x] YAML config aproach.
+- [ ] Building PyTorch approach.
 - [ ] Cancating categorical and text features using TensorFlow.
 - [x] Creating a Python CLI (Command-Line Interface) for interacting with the model.
     - [X] Prdictor class.
