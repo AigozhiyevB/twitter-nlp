@@ -112,9 +112,9 @@ Short summaries of used models:
 
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-[![JetBrains](jb_beam.png)](https://www.jetbrains.com)
+[![JetBrains](https://github.com/AigozhiyevB/twitter-nlp/blob/main/data/jb_beam.png)](https://www.jetbrains.com)
 
-I am an open-source developer licensed by JetBrains. This project is supported by JetBrains' Open Source Developer License. You can learn more about JetBrains and their open-source support [here](https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support)).
+I am an open-source developer licensed by JetBrains. This project is supported by JetBrains' Open Source Developer License. You can learn more about JetBrains and their open-source support [here](https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support).
 
 
 ## Contact
