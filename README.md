@@ -1,11 +1,11 @@
-# Example Sentiment Analysis with TensorFlow, LogisticRegression and CatBoost
+# Example Sentiment Analysis with TensorFlow, PyTorch, LogisticRegression and CatBoost
 
-This is an example project for sentiment analysis using TensorFlow. Sentiment analysis is the process of determining the sentiment or emotional tone of text, identifying whether it is positive, negative, neutral or irrelivant.
+This is an example project for sentiment analysis using TensorFlow and PyTorch. Sentiment analysis is the process of determining the sentiment or emotional tone of text, identifying whether it is positive, negative, neutral or irrelivant.
 
 ## Project Description
 
 In this project, we utilize TensorFlow to build a machine learning model capable of classifying textual data based on sentiment. We will train the model on available datasets and evaluate its performance on new data.
-We are going to compare results with LogisticRegression and CatBoost.
+We are going to compare results with Pytorch, LogisticRegression and CatBoost.
 
 ## Project goal
 
@@ -106,10 +106,16 @@ Short summaries of used models:
 - [**TensorFlow**](https://www.tensorflow.org/): Open-source ML framework by _Google_, supports CPUs, GPUs, and specialized hardware. Provides high-level APIs and low-level operations.
 - **Logistic regression**: Statistical binary classification model using the logistic function. Assumes linear relationship between features and class probabilities.
 - [**CatBoost**](https://catboost.ai/): Gradient boosting framework by _Yandex_. Utilizes Ordered Boosting algorithm for effective handling of categorical features. Supports various tasks, GPU acceleration, and robustness to outliers.
+- [**PyTorch**](https://pytorch.org/): An open-source deep learning framework by Facebook's AI Research lab (FAIR). PyTorch is known for its flexibility and dynamic computation graph, making it popular for research and production.
 
 ## License
 
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+[![JetBrains]([URL_TO_YOUR_LOGO](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png?_gl=1*18lzc9s*_ga*MTQ0MjI5NzQ2My4xNjk3NDc3NzM2*_ga_9J976DJZ68*MTY5NzQ3NzczNi4xLjEuMTY5NzQ3Nzc3NS4zMi4wLjA.&_ga=2.98500571.595885271.1697477736-1442297463.1697477736))](https://www.jetbrains.com)
+
+I am an open-source developer licensed by JetBrains. This project is supported by JetBrains' Open Source Developer License. You can learn more about JetBrains and their open-source support [here](https://www.jb.gg/OpenSourceSupport/).
+
 
 ## Contact
 
