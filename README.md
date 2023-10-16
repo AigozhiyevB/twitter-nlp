@@ -112,9 +112,9 @@ Short summaries of used models:
 
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-[![JetBrains]([URL_TO_YOUR_LOGO](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png?_gl=1*18lzc9s*_ga*MTQ0MjI5NzQ2My4xNjk3NDc3NzM2*_ga_9J976DJZ68*MTY5NzQ3NzczNi4xLjEuMTY5NzQ3Nzc3NS4zMi4wLjA.&_ga=2.98500571.595885271.1697477736-1442297463.1697477736))](https://www.jetbrains.com)
+[![JetBrains]([jb_beam.png])](https://www.jetbrains.com)
 
-I am an open-source developer licensed by JetBrains. This project is supported by JetBrains' Open Source Developer License. You can learn more about JetBrains and their open-source support [here](https://www.jb.gg/OpenSourceSupport/).
+I am an open-source developer licensed by JetBrains. This project is supported by JetBrains' Open Source Developer License. You can learn more about JetBrains and their open-source support [here]([https://www.jb.gg/OpenSourceSupport/](https://www.jetbrains.com/community/opensource/?utm_campaign=opensource&utm_content=approved&utm_medium=email&utm_source=newsletter&utm_term=jblogo#support)).
 
 
 ## Contact
